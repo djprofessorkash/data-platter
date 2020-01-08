@@ -1,2 +1,7 @@
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
+
+# CPython files
+*.pyc
+*/*.pyc
